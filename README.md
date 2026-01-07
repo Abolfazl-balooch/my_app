@@ -1,16 +1,14 @@
-React To-Do App
-این پروژه یک اپلیکیشن تحت وب برای مدیریت وظایف روزانه (To-Do List) است 
-که با استفاده از کتابخانه React پیاده‌سازی شده است. 
-هدف اصلی آن، ارائه یک رابط کاربری ساده، سریع و کارآمد برای ثبت و پیگیری کارهای روزمره است.
+حتماً. این هم ترجمه انگلیسی متن برای فایل `README.md`:
 
-✨ ویژگی‌ها (Features)
-افزودن وظیفه جدید: امکان افزودن سریع وظایف به لیست.
+---
 
-حذف وظیفه: قابلیت حذف وظایف از لیست.
+# React To-Do App
 
-علامت‌گذاری وظایف: امکان مشخص کردن وظایف انجام‌شده.
+This project is a web application for managing a daily To-Do List, implemented using the React library. Its main goal is to provide a simple, fast, and efficient user interface for recording and tracking everyday tasks.
 
-رابط کاربری واکنش‌گرا (Responsive): طراحی مناسب برای نمایش در دستگاه‌های مختلف..
+## ✨ Features
 
-
-https://github.com/Abolfazl-balooch/my_app.git
+-   **Add a new task:** Allows for quickly adding tasks to the list.
+-   **Delete a task:** Provides the ability to remove tasks from the list.
+-   **Mark tasks as complete:** Allows for marking tasks as done.
+-   **Responsive UI:** Suitable design for display on various devices.
